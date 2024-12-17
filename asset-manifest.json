@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/snam7/todo-app-frontend/static/css/main.ca67ef22.css",
-    "main.js": "/snam7/todo-app-frontend/static/js/main.75f761ff.js",
-    "index.html": "/snam7/todo-app-frontend/index.html",
-    "main.ca67ef22.css.map": "/snam7/todo-app-frontend/static/css/main.ca67ef22.css.map",
-    "main.75f761ff.js.map": "/snam7/todo-app-frontend/static/js/main.75f761ff.js.map"
+    "main.css": "/todo-app-frontend/static/css/main.ca67ef22.css",
+    "main.js": "/todo-app-frontend/static/js/main.75f761ff.js",
+    "index.html": "/todo-app-frontend/index.html",
+    "main.ca67ef22.css.map": "/todo-app-frontend/static/css/main.ca67ef22.css.map",
+    "main.75f761ff.js.map": "/todo-app-frontend/static/js/main.75f761ff.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
